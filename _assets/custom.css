@@ -1,5 +1,6 @@
-.reveal-viewport {
-  background: #0059b3;
+:root {
+  --r-background-color: #0059b3;
+  --r-main-color: white;
 }
 /********** Customise logo, and footer disclaimer **********/
 /* Position the corporate logo in the top right of the page */
