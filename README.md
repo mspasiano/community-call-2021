@@ -16,4 +16,4 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
 - If you're stuck, seek for help.
 - If you make mistake, learn from it.
 - If you learn something, teach others.
-          cit. Richard Feynman 
+                    cit. Richard Feynman 
