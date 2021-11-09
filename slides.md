@@ -2,7 +2,7 @@
 title: Communit Call November 24 2021
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: moon
+theme: night
 highlight-theme: monokai
 css: custom.css
 revealOptions:
@@ -15,5 +15,8 @@ revealOptions:
 # Community Call
 ## Developers Italia 
 ### November - 24 2021
+marco.spasiano@cnr.it 
+
+https://github.com/mspasiano
 
 {{README.md}}
