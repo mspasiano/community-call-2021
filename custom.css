@@ -4,6 +4,9 @@
   --r-main-font-size:  30px;
   --r-heading-font: Titillium Web,Geneva,Tahoma,sans-serif;
 }
+html {
+  -webkit-print-color-adjust: exact;
+}
 .text-justify {
   text-align: justify;
 }
