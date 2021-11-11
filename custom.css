@@ -4,12 +4,30 @@
   --r-main-font-size:  30px;
   --r-heading-font: Titillium Web,Geneva,Tahoma,sans-serif;
 }
-html {
-  -webkit-print-color-adjust: exact;
+
+
+@media print {
+    body {
+        background-color: var(--r-background-color) !important;
+        -webkit-print-color-adjust: exact; 
+    }
+    
+    #header-footer .slide-footer {
+      left: 4rem !important;
+    }
+
+    @media print and (-webkit-min-device-pixel-ratio:0) {
+      .reveal, h1, h2, h3 {
+          color: #FFFFF !important;
+          -webkit-print-color-adjust: exact;       
+      }
+    }
 }
+
 .text-justify {
   text-align: justify;
 }
+
 /********** Customise logo, and footer disclaimer **********/
 /* Position the corporate logo in the top right of the page */
 #header-footer .slide-logo {
