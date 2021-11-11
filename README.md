@@ -18,17 +18,18 @@ Attualmente siamo presenti all'interno del portale del riuso con quattro piattaf
 Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo comune di Preganziol (cit. Non a caso ma questa è un altra storia che forse racconteremo più avanti), che ha più  o meno gli stessi abitanti dei dipendenti del CNR, come faccio a fare queste cose? Beh agli inizi degli anni 2000 non c'era quello che abbiamo oggi e non dobbiamo cominciare da zero, abbiamo il portale del riuso e i servizi cloud che ci permettono di valutare una piattaforma e poi di metterla in produzione con uno sforzo minimo, bastano le competenze e una partecipazione attiva alla community.
 <!--s-->
 ## Le 5 If di una community
+
 <table>
-<tr>
-  <td><img src="img/feynman.jpg"><small>Richard Feynman</small></td>  
-  <td>
-    <ol>
-      <li>If you're wrong, admit it.</li><!-- .element: class="fragment" data-fragment-index="0" -->
-      <li>If you're confused, ask questions.</li><!-- .element: class="fragment" data-fragment-index="1" -->
-      <li>If you're stuck, seek for help.</li><!-- .element: class="fragment" data-fragment-index="2" -->
-      <li>If you make mistake, learn from it.</li><!-- .element: class="fragment" data-fragment-index="3" -->
-      <li>If you learn something, teach others.</li><!-- .element: class="fragment" data-fragment-index="4" -->
-    </ol>      
-  </td>
-</tr>
+  <tr>
+    <td><img src="img/feynman.jpg"><small>Richard Feynman</small></td>  
+    <td>
+      <ol>
+        <li>If you're wrong, admit it.</li><!-- .element: class="fragment" data-fragment-index="0" -->
+        <li>If you're confused, ask questions.</li><!-- .element: class="fragment" data-fragment-index="1" -->
+        <li>If you're stuck, seek for help.</li><!-- .element: class="fragment" data-fragment-index="2" -->
+        <li>If you make mistake, learn from it.</li><!-- .element: class="fragment" data-fragment-index="3" -->
+        <li>If you learn something, teach others.</li><!-- .element: class="fragment" data-fragment-index="4" -->
+      </ol>      
+    </td>
+  </tr>
 </table>
