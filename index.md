@@ -10,6 +10,8 @@ revealOptions:
   slideNumber: false
   transition: 'slide'
   backgroundTransition: 'fade'
+  width: 1280
+  height: 800
 ---
 
 # Community Call

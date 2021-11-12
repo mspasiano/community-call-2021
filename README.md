@@ -21,7 +21,7 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
 
 <table>
   <tr>
-    <td><img src="img/feynman.jpg"><small>Richard Feynman</small></td>  
+    <td><img src="img/feynman.jpg"></td>  
     <td>
       <ol>
         <li>If you're wrong, admit it.</li><!-- .element: class="fragment" data-fragment-index="0" -->
@@ -32,4 +32,5 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
       </ol>      
     </td>
   </tr>
+  <tr><td><small>Richard Feynman</small></td><td></td></tr>
 </table>
