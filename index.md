@@ -7,8 +7,8 @@ highlight-theme: monokai
 css: custom.css
 revealOptions:
   controls: true
-  slideNumber: false
-  transition: 'slide'
+  slideNumber: true
+  transition: 'convex'
   backgroundTransition: 'fade'
   width: 1280
   height: 800
