@@ -17,6 +17,12 @@ Sin dal principio, anche per la vocazione di ente di ricerca, ha puntato su tecn
 2. ePAS - Sistema di rilevazione presenze.<!-- .element: class="fragment" data-fragment-index="1" -->
 3. Selezioni online - Sistema per il reclutamento del personale.<!-- .element: class="fragment" data-fragment-index="2" --> 
 4. Scrivania Digitale - Sistema per la gestione dei flussi amministrativi.<!-- .element: class="fragment" data-fragment-index="3" -->
+
+<!--s-->
+## GitHub
+
+![GitHub](img/github.png)
+
 <!--s-->
 ![Collaboration](img/collaboration_lg.jpg)
 
