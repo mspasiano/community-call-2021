@@ -14,6 +14,7 @@
         -webkit-box-shadow: inset 0 0 0 1000px var(--r-background-color);
         box-shadow: inset 0 0 0 1000px var(--r-background-color);
     }
+
     .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
       color: white !important;      
     }
@@ -27,15 +28,11 @@
     }
 
     pre {
-        white-space: pre-wrap!important
+        white-space: pre-wrap
     }
 
     blockquote,pre {
         border: 1px solid #7e7f80;
-        page-break-inside: avoid
-    }
-
-    img,tr {
         page-break-inside: avoid
     }
 
@@ -53,8 +50,13 @@
     }
 
     .container,body {
-        min-width: 992px!important
+        min-width: 992px
     }
+
+}
+
+.top {
+  vertical-align: top;
 }
 
 .text-justify {

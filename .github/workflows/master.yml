@@ -24,7 +24,7 @@ jobs:
           mkdir build
           cp -r img build/
           ./node_modules/.bin/reveal-md --preprocessor includes.js --css custom.css --static build --template template.html
-          ./node_modules/.bin/reveal-md index.md --preprocessor includes.js --css custom.css --template template.html --print build/slides.pdf --print-size A4 --puppeteer-launch-args="--displayHeaderFooter true"
+          ./node_modules/.bin/reveal-md index.md --preprocessor includes.js --css custom.css --template template.html --print build/slides.pdf --print-size A4
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
