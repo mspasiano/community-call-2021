@@ -1,5 +1,5 @@
 ---
-title: Communit Call November 24 2021
+title: Communit Call - 24 Novembre 2021
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: night
@@ -16,7 +16,7 @@ revealOptions:
 
 # Community Call
 ## Developers Italia 
-### November - 24 2021
+### 24 Novembre 2021
 marco.spasiano@cnr.it 
 
 https://github.com/mspasiano
