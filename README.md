@@ -10,7 +10,7 @@ Sin dal principio, anche per la vocazione di ente di ricerca, ha puntato su tecn
 
 Il tutto ha facilitato enormemente il processo di sviluppo e messa in esercizio delle varie piattaforme che negli anni si sono susseguite.<!-- .element: class="text-justify" -->
 <!--v-->
-## Un viaggio verso l'open source
+## SIGLA - Un viaggio verso l'open source
 
 * Rational Clear Case -> CVS -> SVN -> Git <!-- .element: class="fragment" data-fragment-index="0" -->
 * WebSphere 3.3 -> Jboss 4.2.3 -> Wildfly 10 -> Thorntail 2.7.0 <!-- .element: class="fragment" data-fragment-index="1" -->
