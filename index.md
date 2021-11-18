@@ -11,7 +11,7 @@ revealOptions:
   transition: 'convex'
   backgroundTransition: 'fade'
   width: 1280
-  height: 800
+  height: 900
 ---
 
 # Community Call
@@ -19,6 +19,8 @@ revealOptions:
 ### 24 Novembre 2021
 marco.spasiano@cnr.it 
 
-https://github.com/mspasiano
+https://github.com/mspasiano 
+
+[@spasia73](https://twitter.com/spasia73)
 
 {{README.md}}
