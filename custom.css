@@ -404,10 +404,6 @@ html.rightbanner body {
   padding-right: 6%; }
 
 
-/* intro slides */
-/*html.intro .slides {
-  background-image: url("../../images/background_1280_720_HD.jpg"); }*/
-
 html.intro .reveal .slides section h1, html.intro .reveal .slides section h2 {
   padding-top: 12%;
   padding-left: 0;
@@ -438,22 +434,6 @@ html.content .slides section h1 {
 .reveal .slides {
     text-align: left; }
 
-
-/* devoxx footer */
-.footer {
-  z-index: 100;
-  position:absolute;
-  bottom: 0px;
-  width: 100%;
-  height: 49px;
-}
-
-.footer p {
-  margin: 0px;
-  text-align: left;
-  padding-left: 10px;
-  font-size: 1em;
-  font-weight: bold }
 
 
 /* flash slides */
