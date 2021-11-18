@@ -1,5 +1,5 @@
 <!--s-->
-# IL CNR
+## IL CNR
 Il Consiglio Nazionale delle Ricerche per chi non lo conoscesse è il più grande ente di ricerca in Italia ed ha circa 8.000 dipendenti strutturati e circa 6.000 tra assegni, borse di studio e collaboratori, è formato da 90 istituti di ricerca di cui 4 prettamente informatici e da una struttura amministrativa centrale.<!-- .element: class="text-justify" --> 
 
 Ha subito negli anni svariate riorganizzazioni sia a livello amministrativo contabile che organizzativo gestionale, per questo motivo agli inizi degli 2000 ha formato un gruppo interno per la gestione e lo sviluppo di quasi tutte le piattaforme software dell'ente.<!-- .element: class="text-justify" -->
@@ -34,7 +34,7 @@ Il tutto ha facilitato enormemente il processo di sviluppo e messa in esercizio 
 <!--s-->
 ## [github.com/consiglionazionaledellericerche](https://github.com/consiglionazionaledellericerche)
 
-#### ![GitHub](img/github.png)
+#### ![GitHub](img/github.png) <!-- .element: height="100%" -->
 
 <!--s-->
 #### ![Collaboration](img/collaboration_lg.jpg)
@@ -44,9 +44,9 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
 <!--v-->
 ## SI PUÒ FARE
 
-<table>
+<table width="100%" height="100%">
   <tr>
-    <td width="50%"><img src="img/feynman-can-do.jpg"></td>  
+    <td width="50%"><img src="img/feynman-can-do.jpg" alt="Feynman" width="100%" height="100%"></td>  
     <td>
       Agli inizi degli anni 2000 non c'era quello che abbiamo oggi e non dobbiamo cominciare da zero, abbiamo il portale del riuso e i servizi cloud che ci permettono di valutare una piattaforma e poi di metterla in produzione con uno sforzo minimo, bastano le competenze e una partecipazione attiva alla community.<!-- .element: class="text-justify top" -->
     </td>
@@ -54,11 +54,12 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
 </table>
 
 <!--s-->
-## Le 5 If di una community
+# Community
+## Le 5 If
 
-<table>
+<table width="100%" height="100%">
   <tr>
-    <td><img src="img/feynman.jpg"></td>  
+    <td width="40%"><img src="img/feynman.jpg" alt="Feynman" width="100%" height="100%"></td>  
     <td>
       <ol>
           <li>If you're wrong, admit it.</li><!-- .element: class="fragment text-justify" data-fragment-index="0" -->
@@ -66,7 +67,11 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
           <li>If you're stuck, seek for help.</li><!-- .element: class="fragment text-justify" data-fragment-index="1" -->
           <li>If you make mistake, learn from it.</li><!-- .element: class="fragment text-justify" data-fragment-index="1" -->
           <li>If you learn something, teach others.</li><!-- .element: class="fragment text-justify" data-fragment-index="2" -->
-      </ol>      
+      </ol>
+      <h4>&nbsp;</h4>
+      <h4>&nbsp;</h4>
+      <h4>&nbsp;</h4>
+      <h4>&nbsp;</h4>
     </td>
   </tr>
   <tr><td><small>Richard Feynman</small></td><td></td></tr>

@@ -2,8 +2,8 @@
 title: Communit Call - 24 Novembre 2021
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: night
-highlight-theme: monokai
+theme: black
+highlight-theme: simple
 css: custom.css
 revealOptions:
   controls: true

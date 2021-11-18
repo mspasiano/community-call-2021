@@ -51,7 +51,10 @@ section.has-light-background, section.has-light-background h1, section.has-light
  *********************************************/
 body {
   background: #222;
-  background-color: #222; }
+  background-color: #222;
+  background-image: url(img/background.svg) !important;
+  background-size: 100%; 
+}
 
 .reveal {
   font-size: 38px;
@@ -425,7 +428,7 @@ html.content .slides section h1 {
 .reveal .slide-number {
   left: 50%;
   bottom: 0.5em;
-  width: 2.5em;
+  width: 3em;
   text-align: center; 
 }
 
