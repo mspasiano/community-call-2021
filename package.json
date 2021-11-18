@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "decktape": "^3.3.0",
     "highlight.js": "10.7.2",
     "serve-favicon": "2.5.0",
     "reveal-md": "^5.2.0",
