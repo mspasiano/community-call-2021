@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lora:400,700");
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:400,700");
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css");
 
 :root {
   --r-background-color: #0059b3;
@@ -11,32 +12,6 @@
 
 .top {
   vertical-align: top;
-}
-
-.text-justify {
-  text-align: justify;
-}
-
-/********** Customise logo, and footer disclaimer **********/
-/* Position the corporate logo in the top right of the page */
-#header-footer .slide-logo {
-  position: absolute;
-  top: 15px;
-  right: 50px;
-  height: 60px;
-}
-
-
-/* Style/position the footer text */
-#header-footer .slide-footer {
-    position: fixed; 
-    bottom: 1rem;
-    left: 1rem;
-    right: 0;
-    height: 10px;
-    text-align: left;
-    font-size: 65%;
-    height: 3rem;
 }
 
 .text {
@@ -426,7 +401,7 @@ html.content .slides section h1 {
 .reveal .slide-number {
   left: 50%;
   bottom: 0.5em;
-  width: 3em;
+  width: 4em;
   text-align: center; 
 }
 
@@ -564,4 +539,12 @@ h2[data-irl]::after {
   color: white;
   padding: 0.1em 0.2em;
   transform: rotate(-30deg);
+}
+
+.footer-icon {
+    zoom: 0.3;
+    -ms-zoom: 0.3;
+    -webkit-zoom: 0.3;
+    -moz-transform:  scale(0.3,0.3);
+    -moz-transform-origin: left center;
 }
