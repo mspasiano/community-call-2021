@@ -1,8 +1,8 @@
 <!--s-->
 ## IL CNR
-Il Consiglio Nazionale delle Ricerche per chi non lo conoscesse è il più grande ente di ricerca in Italia ed ha circa 8.000 dipendenti strutturati e circa 6.000 tra assegni, borse di studio e collaboratori, è formato da 90 istituti di ricerca di cui 4 prettamente informatici e da una struttura amministrativa centrale.<!-- .element: class="text-justify" --> 
+Il Consiglio Nazionale delle Ricerche per chi non lo conoscesse è il più grande ente di ricerca in Italia ed ha circa **8.000** dipendenti strutturati e circa **6.000** tra assegni, borse di studio e collaboratori, è formato da 90 istituti di ricerca di cui 4 prettamente informatici e da una struttura amministrativa centrale.<!-- .element: class="text-justify" --> 
 
-Ha subito negli anni svariate riorganizzazioni sia a livello amministrativo contabile che organizzativo gestionale, per questo motivo agli inizi degli 2000 ha formato un gruppo interno per la gestione e lo sviluppo di quasi tutte le piattaforme software dell'ente.<!-- .element: class="text-justify" -->
+Ha subito negli anni svariate riorganizzazioni sia a livello amministrativo contabile che organizzativo gestionale, per questo e per altri motivi, agli inizi degli 2000 ha formato un gruppo interno per la gestione e lo sviluppo di quasi tutte le piattaforme software dell'ente.<!-- .element: class="text-justify" -->
 
 <!--s-->
 ## OPEN SOURCE
@@ -88,3 +88,9 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
 <!--s-->
 
 # Grazie!
+
+marco.spasiano@cnr.it 
+
+https://github.com/mspasiano 
+
+[@spasia73](https://twitter.com/spasia73)

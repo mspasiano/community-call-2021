@@ -17,10 +17,19 @@ revealOptions:
 # Community Call
 ## Developers Italia 
 ### 24 Novembre 2021
-marco.spasiano@cnr.it 
 
-https://github.com/mspasiano 
+```js 
+const whoami = {
+  firstName:  'Marco',
+  lastName:   'Spasiano',
+  age:        48,
+  city:       'Napoli',
+  company:    'Consiglio Nazionale delle Ricerche',
+  github:     'https://github.com/mspasiano',
+  email:      'marco.spasiano@cnr.it',
+  twitter:    '@spasia73'
+}
+```
 
-[@spasia73](https://twitter.com/spasia73)
 
 {{README.md}}
