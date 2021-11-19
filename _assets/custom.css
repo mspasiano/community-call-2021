@@ -548,3 +548,7 @@ h2[data-irl]::after {
     -moz-transform:  scale(0.3,0.3);
     -moz-transform-origin: left center;
 }
+
+[hidden] {
+  display: inherit !important;
+}
