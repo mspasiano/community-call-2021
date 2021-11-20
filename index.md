@@ -25,9 +25,12 @@ const whoami = {
   age:        48,
   city:       'Napoli',
   company:    'Consiglio Nazionale delle Ricerche',
-  github:     'https://github.com/mspasiano',
-  email:      'marco.spasiano@cnr.it',
-  twitter:    '@spasia73'
+  profile:    'Primo Tecnologo',
+  contacts: {
+    email:      'marco.spasiano@cnr.it',
+    github:     'https://github.com/mspasiano',
+    twitter:    '@spasia73'    
+  }
 }
 ```
 
