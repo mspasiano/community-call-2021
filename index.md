@@ -23,6 +23,10 @@ const whoami = {
   firstName:  'Marco',
   lastName:   'Spasiano',
   age:        48,
+    family: {
+    wife:       'Gabriella',
+    sons:       ['Giada', 'Manila']
+  },
   city:       'Napoli',
   company:    'Consiglio Nazionale delle Ricerche',
   profile:    'Primo Tecnologo',
@@ -30,10 +34,6 @@ const whoami = {
     email:      'marco.spasiano@cnr.it',
     github:     'https://github.com/mspasiano',
     twitter:    '@spasia73'
-  },
-  family: {
-    wife:       'Gabriella',
-    sons:       ['Giada', 'Manila']
   }
 }
 ```
