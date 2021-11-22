@@ -23,10 +23,6 @@ const whoami = {
   firstName:  'Marco',
   lastName:   'Spasiano',
   age:        48,
-    family: {
-    wife:       'Gabriella',
-    sons:       ['Giada', 'Manila']
-  },
   city:       'Napoli',
   company:    'Consiglio Nazionale delle Ricerche',
   profile:    'Primo Tecnologo',
