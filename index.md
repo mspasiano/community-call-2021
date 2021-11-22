@@ -29,7 +29,11 @@ const whoami = {
   contacts: {
     email:      'marco.spasiano@cnr.it',
     github:     'https://github.com/mspasiano',
-    twitter:    '@spasia73'    
+    twitter:    '@spasia73'
+  },
+  family: {
+    wife:       'Gabriella',
+    sons:       ['Giada', 'Manila']
   }
 }
 ```
