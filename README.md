@@ -53,7 +53,7 @@ Il tutto ha facilitato enormemente il processo di sviluppo e messa in esercizio 
 #### ![GitHub](img/github.png) <!-- .element: height="100%" -->
 
 <!--s-->
-## COLLABORATION
+## I VANTAGGI DI FARE RETE
 
 #### ![Collaboration](img/collaboration_lg.jpg)
 
