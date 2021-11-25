@@ -74,7 +74,9 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
   </tr>
 </table>
 <!--s-->
+
 # Come scegliere un software
+
 ## Developers Italia
 
 ![Developers uniticket](img/developers_uniticket.png)
@@ -110,11 +112,15 @@ Di certo qualcuno di voi si sta chiedendo, ma io sono un dipendente del piccolo 
           <li>If you make mistake, learn from it.</li><!-- .element: class="fragment text-justify" data-fragment-index="1" -->
           <li>If you learn something, teach others.</li><!-- .element: class="fragment text-justify" data-fragment-index="2" -->
       </ol>
-      <img src="img/forum-italia.png" alt="Forum Italia"><!-- .element: class="fragment text-justify" data-fragment-index="3" -->
-      <img src="img/slack.png" alt="Slack"><!-- .element: class="fragment text-justify" data-fragment-index="3" -->
-      <img src="img/github-logo.png" alt="GitHub"><!-- .element: class="fragment text-justify" data-fragment-index="4" -->
-      <img src="img/gitlab-logo.png" alt="Gitlab"><!-- .element: class="fragment text-justify" data-fragment-index="4" -->
-      <img src="img/bitbucket-logo.png" alt="Bitbucket"><!-- .element: class="fragment text-justify" data-fragment-index="4" -->
+      <div class="d-flex justify-content-between">
+        <img src="img/forum-italia.png" alt="Forum Italia"><!-- .element: class="fragment text-justify" data-fragment-index="3" -->
+        <img src="img/slack.png" alt="Slack"><!-- .element: class="fragment text-justify" data-fragment-index="3" -->
+      </div>
+      <div class="d-flex justify-content-between">
+        <img src="img/github-logo.png" alt="GitHub"><!-- .element: class="fragment text-justify" data-fragment-index="4" -->
+        <img src="img/gitlab-logo.png" alt="Gitlab"><!-- .element: class="fragment text-justify" data-fragment-index="4" -->
+        <img src="img/bitbucket-logo.png" alt="Bitbucket"><!-- .element: class="fragment text-justify" data-fragment-index="4" -->
+      </div>
     </td>
   </tr>
   <tr><td><small>Sta scherzando, Mr Feynman!</small></td><td></td></tr>
